@@ -1,19 +1,19 @@
 ---
-title: Armonía Escuela de Formación Musical
+title: Armonía - Escuela de Formación Musical
 slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Formamos músicos con pasión y propósito. Clases de Piano, guitarra, batería canto, instrumentos de viento madera y metal, apoyamos la formación de su ministerio de música. 
       color: text-dark
-      type: TitleBlock
-    subtitle: Subtitle goes here
+      type: Clases virtuales y presenciales en Ibagué
+    subtitle: En Armonía EFM aprendes desde cero, con profesores profesionales y un plan de estudios adaptado a su nivel musical
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
-      - label: Get started
+      - label: Inscribete ahora
         altText: ''
         url: /
         showIcon: false
