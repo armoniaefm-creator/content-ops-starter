@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Armonía Escuela de Formación Musical
 slug: /
 sections:
   - type: GenericSection
