@@ -35,7 +35,11 @@ function Page(props) {
                 {site.favicon && <link rel="icon" href={site.favicon} />}
             </Head>
             <PageLayout page={page} site={site} />
-        </>
+        <img src="/images/armony-avatar.png" alt="Armony" style={{position:'fixed', bottom:'20px', right:'20px', width:'80px', height:'80px', borderRadius:'50%', border:'3px solid #C5A253', zIndex:9999, cursor:'pointer'}} onClick={() => { const m = new SpeechSynthesisUtterance('¡Hola! Soy Armony'); m.lang='es-ES'; m.pitch=1.4; speechSynthesis.speak(m); }} />
+                    </>
+      </>
+    );
+  }
     );
 }
 
